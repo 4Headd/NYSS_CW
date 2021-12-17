@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cw_wpf", "cw_wpf\cw_wpf.csproj", "{F806A124-2C4F-4EDF-80E0-27C9FBF948E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestForEncryptDecryptMethods", "UnitTestForEncryptDecryptMethods\UnitTestForEncryptDecryptMethods.csproj", "{ECE617B6-5336-4B81-9800-06285043AA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F806A124-2C4F-4EDF-80E0-27C9FBF948E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F806A124-2C4F-4EDF-80E0-27C9FBF948E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F806A124-2C4F-4EDF-80E0-27C9FBF948E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F806A124-2C4F-4EDF-80E0-27C9FBF948E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE617B6-5336-4B81-9800-06285043AA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE617B6-5336-4B81-9800-06285043AA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE617B6-5336-4B81-9800-06285043AA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE617B6-5336-4B81-9800-06285043AA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC80344A-015A-482B-9F4B-EC6F59D10C7C}
+	EndGlobalSection
+EndGlobal
